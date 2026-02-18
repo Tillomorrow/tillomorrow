@@ -1,12 +1,14 @@
-# hello, welcome to my profile
+# hello, welcome to my profile!
+i'm an indie rookie dev, still learning things out -w-
 
 ## [ what do i do ]
 - messing around stuff
 - do weird stuff
-- a lot of stuff, ig
+- work on games
+- do pixel arts
 
 ## [ contact ]
-look for it on my site, but rn i'm barely reachable, don't even try
+look for it on my site
 
 ## [ business stuff ]
 i currently don't have a channel for business inqueries or commissions or whatever, check back next time
