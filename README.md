@@ -1,4 +1,12 @@
-## Hi there 👋
+# hello, welcome to my profile
+
+## [ what do i do ]
+- messing around stuff
+- do weird stuff
+- a lot of stuff, ig
+
+## [ contact ]
+look for it on my site, but rn i'm barely reachable, don't even try
 
 <!--
 **Tillomorrow/tillomorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
