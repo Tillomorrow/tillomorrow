@@ -8,6 +8,9 @@
 ## [ contact ]
 look for it on my site, but rn i'm barely reachable, don't even try
 
+## [ business stuff ]
+i currently don't have a channel for business inqueries or commissions or whatever, check back next time
+
 <!--
 **Tillomorrow/tillomorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
