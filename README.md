@@ -8,7 +8,5 @@ i'm an indie rookie dev, still learning things out -w-
 - do pixel arts
 
 ## [ contact ]
-nothing yet, i'll return with a twitter account later
-
-## [ business stuff ]
-for business inqueries: tilloofmorrow@gmail.com
+for casual chitchat: none for now
+for business inquiries: tilloofmorrow@gmail.com
