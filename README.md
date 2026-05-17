@@ -8,5 +8,5 @@ i'm an indie rookie dev, still learning things out -w-
 - do pixel arts
 
 ## [ contact ]
-for casual chitchat: none for now
+for casual chitchat: none for now   
 for business inquiries: tilloofmorrow@gmail.com
